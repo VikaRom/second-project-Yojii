@@ -471,6 +471,9 @@ ul {
     left: 20px;
     top: 46px;
 }
+.info-block__watch__text{
+    color: var(--success-color);
+}
 .message__element-report._right {
     position: absolute;
     width: 9px;
@@ -1088,7 +1091,7 @@ textarea::placeholder {
 
     .header {
         box-shadow: 0px -2px 8px rgba(0, 0, 0, 0.25);
-        padding: 0 30px;
+        padding: 0 15px;
     }
 
     .info-block__start {
